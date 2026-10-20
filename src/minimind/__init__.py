@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from minimind!")
+# src/minimind/__init__.py
