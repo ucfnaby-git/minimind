@@ -6,5 +6,8 @@
             "source.organizeImports.ruff": "explicit"
         }
     },
-    "ruff.lint.enable": true
+    "ruff.lint.enable": true,
+    "conventionalCommits.scopes": [
+        "model"
+    ]
 }
